@@ -1,2 +1,2 @@
 # JavaRMI
-A basic calculator using Java RMI
+A basic  four mathematical operations calculator using Java RMI
